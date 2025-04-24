@@ -3,7 +3,7 @@ name = "timebreak"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "JW5123",email = "Jay2002714@gmail.com"}
+    {name = "JW5123",email = "JW5123@users.noreply.github.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13,<4.0.0"
